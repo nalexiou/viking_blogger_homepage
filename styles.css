@@ -1,5 +1,5 @@
 body {
-
+	font-family: Helvetica, sans-serif;
 }
 
 div {
@@ -40,4 +40,10 @@ div {
 	display: inline-block;
 	height: 70px;
 	line-height: 70px;
+}
+
+.cta-button {
+	font-weight: bold;
+	color: white;
+	background-color: #2b78e4;
 }
