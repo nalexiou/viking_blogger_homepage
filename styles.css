@@ -1,0 +1,20 @@
+body {
+	
+}
+
+div {
+	border: 1px solid #ddd;
+}
+
+
+.logo-container img {
+	width: 30px;
+	height: 30px;
+	vertical-align: middle;
+}
+
+.logo-container h2{
+	font-size: 24px;
+	display: inline-block;
+	vertical-align: middle;
+}
