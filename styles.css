@@ -1,11 +1,21 @@
 body {
-	
+
 }
 
 div {
 	border: 1px solid #ddd;
 }
 
+.navbar {
+	height: 70px;
+	border-bottom: 1px solid black;
+}
+
+.logo-container {
+	display: inline-block;
+	line-height: 70px;
+	padding-left: 10px;
+}
 
 .logo-container img {
 	width: 30px;
@@ -17,4 +27,17 @@ div {
 	font-size: 24px;
 	display: inline-block;
 	vertical-align: middle;
+}
+
+.nav-elements-container {
+	float: right;
+}
+
+.nav-elements-container .button {
+	font-size: 24px;
+	text-align: center;
+	width: 195px;
+	display: inline-block;
+	height: 70px;
+	line-height: 70px;
 }
